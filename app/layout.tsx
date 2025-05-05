@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "deal-makers.ai | AI-Beratung für Ihr Unternehmen",
-  description: "AI-Beratung für Ihr Unternehmen",
+  description: "Strategie, Implementierung und Skalierung für nachhaltiges Wachstum",
 };
 
 export default function RootLayout({
