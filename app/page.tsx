@@ -9,7 +9,7 @@ import Pricing from '@/components/pricing'
 import TeamSection from '@/components/team'
 import ContactSection from '@/components/contact'
 import FooterSection from '@/components/footer'
-import ContentSectionNew from '@/components/content-4'
+
 
 export default function Page() {
   // State für den ausgewählten Plan
