@@ -4,13 +4,13 @@ const members = [
     {
         name: 'Timur Sereflioglu',
         role: 'Co-Founder',
-        avatar: 'https://media.licdn.com/dms/image/v2/D4E03AQHJa3lz6Ythbw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689861690712?e=1747872000&v=beta&t=eL4dCD3UibpJZjpNVVWnnZwygqaKWTN5e6g9ts7lUdc',
+        avatar: 'https://media.licdn.com/dms/image/v2/D4E03AQHJa3lz6Ythbw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689861690712?e=1753315200&v=beta&t=hd9Frtwm1ubM-QGlLbAZdK6Cd-X7NtLHVFzhc3nCDsQ',
         link: '#',
     },
     {
         name: 'Florian Weippert',
         role: 'Co-Founder',
-        avatar: 'https://media.licdn.com/dms/image/v2/D5603AQHQsyzhHg9eKQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726340609798?e=1747872000&v=beta&t=HjZ_p7ooJlbUnccKOSoHR1mj_sSRdImu2_Zj5y91ebY',
+        avatar: 'https://media.licdn.com/dms/image/v2/D5603AQHQsyzhHg9eKQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726340609798?e=1753315200&v=beta&t=x7oyLwaRkTBCc5g9KeUvWLbHpG4q_geE4g0qMxmVBMc',
         link: '#',
     },
     {
